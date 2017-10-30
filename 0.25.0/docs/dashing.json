@@ -1,0 +1,13 @@
+{
+    "name": "Ramda",
+    "package": "Ramda",
+    "index": "index.html",
+    "selectors": {
+        "section.card:nth-child(2) > h2:nth-child(1) > a:nth-child(1)" : "Property",
+        "h2 a:first-child": "Method"
+    },
+    "ignore": [],
+    "icon32x32": "ramda_32x32.png",
+    "ExternalURL": "http://ramdajs.com/docs",
+    "allowJS": false
+}
